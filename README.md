@@ -70,6 +70,14 @@ AI改善
 
 
 
+技術構成
+
+React/Next.js
+css Tailwind
+AI / OpenAI API
+公開　自ドメインVPS / Vercel
+
+
 
 ## Getting Started
 
